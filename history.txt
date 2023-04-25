@@ -1,0 +1,10 @@
+   0 touch myfirstbashscript.sh
+   1 chmod 744 myfirstbashscript.sh
+   2 ls -lah
+   3 vi myfirstbashscript.sh
+   4 ./myfirstbashscript.sh
+   5 vi myfirstbashscript.sh
+   6 ./myfirstbashscript.sh
+   7 mv myfirstbashscript.sh /bin/viktor
+   8 viktor
+   9 history > history.txt

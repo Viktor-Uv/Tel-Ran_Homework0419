@@ -1,0 +1,5 @@
+#!/bin/bash
+USER=Viktor
+date +%D
+echo "Hello, $USER!"
+pwd
